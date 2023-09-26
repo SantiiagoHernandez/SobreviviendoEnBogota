@@ -101,3 +101,4 @@ while (intento == 0):
                             print("Gran trabajo", nombre, "!!! 🎊", "tu celular esta a salvo. Gran habilidad para cuidar tus objetos personales")
                             print("Haz llegado a tu destino!!! 🥳 Eres un gran viajero", nombre, "🚌,", "haz sobrevivido a una travesia por el Transmilenio en Bogotá. FELICITACIONES!!! 🎉🎉🎉")
                             exit()
+                            
